@@ -1,2 +1,6 @@
+#coursera_capston main python script file
 
-cases = [1000,2000,4000,5000]
+import pandas as pd
+import numpy as np
+
+Print("Hello Capstone Project Course!")
