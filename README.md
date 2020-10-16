@@ -7,4 +7,6 @@ Week 1 submission
     
     
  Week 2 submission
-    --> TBD
+    --> Report.pdf
+    --> Presentation.pdf
+    --> python script located at ../Scripts/Capstone_Main.ipynb
